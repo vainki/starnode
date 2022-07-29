@@ -10,7 +10,6 @@
 # IRC: #spigot @ irc.spi.gt ( http://www.spigotmc.org/pages/irc/ )
 # Forums: http://www.spigotmc.org/
 
-#Vyxterhost.com
 config-version: 8
 messages:
   whitelist: El servidor tiene la whitelist activada.
